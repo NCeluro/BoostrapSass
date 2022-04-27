@@ -1,0 +1,12 @@
+{
+  "name": "bootstrapsass",
+  "version": "1.0.0",
+  "description": "Aplicando un poco de bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

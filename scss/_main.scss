@@ -1,0 +1,29 @@
+body {
+  background-color: $color-header;
+  main {
+    .titulo {
+      color: $color-titulo;
+      font-family: "Courier New", Courier, monospace;
+    }
+    .container {
+      background-color: $color-main;
+    }
+    .texto {
+      color: $color-texto;
+      font-family: "Courier New", Courier, monospace;
+    }
+    .botonContact {
+      .btn {
+        color: $color-titulo;
+        background-color: $color-main;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1.2rem;
+      }
+      .btn:hover {
+        background-color: black;
+        color: beige;
+        font-family: "Courier New", Courier, monospace;
+      }
+    }
+  }
+}

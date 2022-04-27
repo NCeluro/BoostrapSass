@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header .navbar {
+  background-color: #d4d0c9;
+}
+header .navbar .container .navbar-brand {
+  color: #1a3c40;
+  font-size: 1.5rem;
+}
+header .navbar .container .nav-link {
+  color: #1a3c40;
+  font-size: 1rem;
+}
+header .navbar .container .nav-link:hover {
+  font-size: 1rem;
+  background-color: black;
+  color: beige;
+}
+
+body {
+  background-color: #d4d0c9;
+}
+body main .titulo {
+  color: #1a3c40;
+  font-family: "Courier New", Courier, monospace;
+}
+body main .container {
+  background-color: #ede6db;
+}
+body main .texto {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+body main .botonContact .btn {
+  color: #1a3c40;
+  background-color: #ede6db;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+}
+body main .botonContact .btn:hover {
+  background-color: black;
+  color: beige;
+  font-family: "Courier New", Courier, monospace;
+}
+
+footer {
+  background-color: #d4d0c9;
+}
+footer .footerText {
+  color: black;
+}
+
+main .container .tituloSecundario {
+  color: #1a3c40;
+  font-family: "Courier New", Courier, monospace;
+}
+main .container .text-start {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+/*# sourceMappingURL=style.css.map */
